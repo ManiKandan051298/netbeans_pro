@@ -1,0 +1,6 @@
+org\me\calculator\client\Add.class
+org\me\calculator\client\ObjectFactory.class
+org\me\calculator\client\CalculatorWS_Service.class
+org\me\calculator\client\AddResponse.class
+org\me\calculator\client\package-info.class
+org\me\calculator\client\CalculatorWS.class
